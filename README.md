@@ -16,7 +16,7 @@
    - <img height="15em" src="https://cdn.countryflags.com/thumbs/brazil/flag-400.png" /> I'm a developer from Brazil <br>
    - 🤖 A technology lover since I was born <br>
   <p align="center">
-  <img height="250px" src="https://bipedepop.files.wordpress.com/2018/01/e867be6e-4888-4e7c-9242-2eb2f38ced21.gif" alt="animated" />
+  <img width="1050px" src="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/My%20GIF/Kaique's%20GIF.gif" alt="animated" />
   <p align="center">by @waneella</p>
 </p>
 </div>
