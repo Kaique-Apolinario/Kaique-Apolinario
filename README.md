@@ -17,8 +17,6 @@
    - 🤖 A technology lover since I was born <br>
   <p align="center">
   <img width="1050px" src="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/My%20GIF/Kaique's%20GIF.gif" alt="animated" />
-  <p align="center">by @waneella</p>
-</p>
 </div>
     <h1 align="center"> Contact me: </h1>
     
