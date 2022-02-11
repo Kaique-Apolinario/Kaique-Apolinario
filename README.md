@@ -16,7 +16,7 @@
    - <img height="15em" src="https://cdn.countryflags.com/thumbs/brazil/flag-400.png" /> I'm a developer from Brazil <br>
    - 🤖 A technology lover since I was born <br>
   <p align="center">
-  <img width="1050px" src="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/My%20GIF/Kaique's%20GIF.gif" alt="animated" />
+  <a href="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/The%20credits.txt"><img width="1050px" src="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/My%20GIF/Kaique's%20GIF.gif" alt="animated"/></a>
 </div>
     <h1 align="center"> Contact me: </h1>
     
