@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Kaique Apolinário 👋 and you're on my page! 🌎</h1>
+<h1 align="center">Hello World!<img width="50px" src="https://thumbs.gfycat.com/EmptyAdoredDutchshepherddog-max-1mb.gif" alt="animated"/> Welcome to my page! 👋</h1>
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaique-apolinario&show_icons=true&theme=midnight-purple"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-apolinario&layout=demo&langs_count=7&theme=midnight-purple"/>
