@@ -1,4 +1,4 @@
-<h1 align="center"> <img width="80px" src="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/My%20GIF/Spinning%20World%20GIF.gif?raw=true" alt="animated"/> <br> Hello World! Welcome to my page! 👋</h1>
+<h1 align="center"> <img width="80px" src="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/My%20GIF/Spinning%20World%20GIF.gif?raw=true" alt="animated" title="This GIF doesn't belong to me. Credits to its original owner."/> <br> Hello World! Welcome to my page! 👋</h1>
 <div align="center">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=kaique-apolinario&show_icons=true&theme=default"/>
     <img height="160px" src="http://github-readme-streak-stats.herokuapp.com?user=Kaique-Apolinario&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF661E&currStreakLabel=811EFF94"/>
