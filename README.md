@@ -11,7 +11,7 @@
 <div align="center">
    - <img height="15em" src="https://cdn.countryflags.com/thumbs/brazil/flag-400.png" /> I'm a developer from Brazil <br>
    - 🤖 A technology lover since I was born <br>
-   - 🏁 My 2024 main goal: Get my first job as a Dev! <br><br>
+   - 🏁 My 2025 main goal: Get my first job as a Dev! <br><br>
   <p align="center">
   <a href="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/The%20credits.txt" title="Please, hire Kaique lol. Credits to: Arisanojima, Peach Cat, BugCat-Capoo, Bongo Cat"><img width="1050px" src="https://github.com/Kaique-Apolinario/Kaique-Apolinario/blob/main/My%20GIF/Kaique's%20GIF.gif" alt="animated"/></a>
   <img height="40px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>     
